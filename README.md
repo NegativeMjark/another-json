@@ -1,6 +1,8 @@
 Another JSON
 ============
 
+[![Build Status](https://travis-ci.org/NegativeMjark/another-json.svg?branch=master)](https://travis-ci.org/NegativeMjark/another-json)
+
 Encode an object or an array as JSON using the shortest format possible.
 
     var anotherjson = require('another-json');
