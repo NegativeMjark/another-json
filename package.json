@@ -1,7 +1,7 @@
 {
   "name": "another-json",
   "version": "0.1.0",
-  "description": "Encode another, canonical JSON.",
+  "description": "Encode compact, canonical JSON.",
   "main": "another-json.js",
   "devDependencies": {
     "jasmine-node": "^1.14.5",
