@@ -1,11 +1,10 @@
-Compact JSON
+Another JSON
 ============
 
 Encode an object or an array as JSON using the shortest format possible.
 
-    var compactjson = require('compact-json');
-    var myJson = compactjson.stringify({an: 'example'});
-    assert(myJson === '{"an":"example"}');
+    var anotherjson = require('another-json');
+    assert(anotherjson.stringify({an: 'example'}) === '{"an":"example"}');
 
 Features
 --------

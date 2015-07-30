@@ -1,8 +1,8 @@
 {
-  "name": "compact-json",
+  "name": "another-json",
   "version": "0.1.0",
-  "description": "Encode compact, canonical JSON.",
-  "main": "compact-json.js",
+  "description": "Encode another, canonical JSON.",
+  "main": "another-json.js",
   "devDependencies": {
     "jasmine-node": "^1.14.5",
     "jshint": "^2.8.0"
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NegativeMjark/compact-json.git"
+    "url": "git+https://github.com/NegativeMjark/another-json.git"
   },
   "keywords": [
     "json"
@@ -22,7 +22,7 @@
   "author": "Mark Haines",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/NegativeMjark/compact-json/issues"
+    "url": "https://github.com/NegativeMjark/another-json/issues"
   },
-  "homepage": "https://github.com/NegativeMjark/compact-json#readme"
+  "homepage": "https://github.com/NegativeMjark/another-json#readme"
 }
